@@ -1,0 +1,574 @@
+﻿osm_id,code,fclass,name,latitude,longitude
+30520541,5601,railway_station,Vapi,73,20
+317047338,5601,railway_station,Anand Junction,73,23
+317047858,5601,railway_station,Sadanapura,73,23
+317049926,5601,railway_station,Savli,73,23
+318132819,5601,railway_station,Vishwamitri Junction,73,22
+318135704,5601,railway_station,Pratapnagar,73,22
+318140382,5601,railway_station,Makarpura,73,22
+318143159,5601,railway_station,Chhayapuri,73,22
+318143940,5601,railway_station,Bajva,73,22
+318156510,5601,railway_station,Kanjari Boriyavi Junction,73,23
+318157831,5601,railway_station,Vadod,73,23
+318157883,5601,railway_station,Adas Road,73,22
+318158761,5601,railway_station,Vasad Junction,73,22
+318159226,5601,railway_station,Nandesari,73,22
+318258387,5601,railway_station,Vallabh Vidynagar,73,23
+319330553,5601,railway_station,Pilol,73,22
+322770856,5601,railway_station,Naroda,73,23
+322983346,5601,railway_station,Vastrapur,73,23
+323120091,5601,railway_station,Maninagar,73,23
+323189766,5601,railway_station,Sabarmati,73,23
+355747666,5601,railway_station,Bhildi Junction,72,24
+391345820,5601,railway_station,Bardoli,73,21
+414782961,5601,railway_station,Surat,73,21
+414849419,5601,railway_station,Madhi,73,21
+448146952,5601,railway_station,Nandol Dahegam,73,23
+565473140,5601,railway_station,Rajkot Junction,71,22
+566222693,5601,railway_station,Asarva,73,23
+566223451,5601,railway_station,Sardargram,73,23
+566226583,5601,railway_station,Dabhoda,73,23
+566228737,5601,railway_station,Rakhiyal,73,23
+566229649,5601,railway_station,Talod,73,23
+566232038,5601,railway_station,Prantij,73,23
+566235384,5601,railway_station,Sonasan,73,23
+566240551,5601,railway_station,Raigadh Road,73,24
+566240929,5601,railway_station,Shamlaji Road,73,24
+566242191,5601,railway_station,Lusadiya,73,24
+634317628,5601,railway_station,Junagadh Junction,70,22
+634336690,5601,railway_station,Visavadar Junction,71,21
+634346965,5601,railway_station,Gondal,71,22
+713294650,5601,railway_station,Dhrangadhra Junction,71,23
+713294695,5601,railway_station,Okha,69,22
+713294758,5601,railway_station,Viramgam Junction,72,23
+713294774,5601,railway_station,Mithapur,69,22
+713294809,5601,railway_station,Joravar Nagar,72,23
+713294917,5601,railway_station,Surendranagar Junction,72,23
+713295075,5601,railway_station,Paddhari,71,22
+713295573,5601,railway_station,Bhatiya,69,22
+718917253,5601,railway_station,Sevaliya,73,23
+779388997,5601,railway_station,Kalol Junction,73,23
+806585219,5601,railway_station,Dahod,74,23
+806585439,5601,railway_station,Piplod Junction,74,23
+910815992,5601,railway_station,Botad Junction,72,22
+910816073,5601,railway_station,Limbdi,72,23
+910816142,5601,railway_station,Dhola Junction,72,22
+915522827,5601,railway_station,Sihor Junction,72,22
+915522905,5601,railway_station,Lunidhar,71,22
+915522926,5601,railway_station,Vavdi,71,22
+915523017,5601,railway_station,Bhavnagar Terminus,72,22
+915523048,5601,railway_station,Kunkavav,71,22
+915523098,5601,railway_station,Dhasa Junction,72,22
+915605108,5601,railway_station,Mahuva Junction,72,21
+915605123,5601,railway_station,Rajula Junction,71,21
+918556145,5601,railway_station,Keshod,70,21
+918556470,5601,railway_station,Somnath,70,21
+918556903,5601,railway_station,Chorwad Road,70,21
+918557046,5601,railway_station,Kodinar,71,21
+918557259,5601,railway_station,Delvada,71,21
+921345690,5601,railway_station,Bharuch Junction,73,22
+1063791657,5601,railway_station,Upleta,70,22
+1063815274,5601,railway_station,Dhoraji,70,22
+1063815702,5601,railway_station,Navagadh,71,22
+1063868213,5601,railway_station,Dwarka,69,22
+1063868600,5601,railway_station,Baradiya,69,22
+1064120176,5601,railway_station,Sikka,70,22
+1064120224,5601,railway_station,Hapa,70,22
+1064121071,5601,railway_station,Kanalus Junction,70,22
+1065271322,5601,railway_station,Bhanvad,70,22
+1065271360,5601,railway_station,Lalpur Jam,70,22
+1065271427,5601,railway_station,Jam Jodhpur,70,22
+1065383748,5601,railway_station,Sadhli,73,22
+1065383796,5601,railway_station,Moti Koral,73,22
+1065383924,5601,railway_station,Jambusar Junction,73,22
+1065383952,5601,railway_station,Vishvamitri Jn. (NG),73,22
+1065383969,5601,railway_station,Kavi,73,22
+1065384076,5601,railway_station,Choranda Junction,73,22
+1065469658,5601,railway_station,Chital,71,22
+1065469771,5601,railway_station,Khijadiya Junction,71,22
+1065469876,5601,railway_station,Chalala,71,21
+1065469907,5601,railway_station,Dhari Junction,71,21
+1068857799,5601,railway_station,Khambhat,73,22
+1149274540,5601,railway_station,Navsari,73,21
+1207067917,5601,railway_station,Udvada,73,20
+1315968975,5601,railway_station,Timba Road,73,23
+1315969746,5601,railway_station,Samlaya Junction,73,22
+1349429257,5601,railway_station,Kali Road,73,23
+1349939768,5601,railway_station,Kapadvanj,73,23
+1357056820,5601,railway_station,Bodeli,74,22
+1357056830,5601,railway_station,Chhota Udepur,74,22
+1357056846,5601,railway_station,Waghai,74,21
+1357057530,5601,railway_station,Vagara,73,22
+1357114749,5601,railway_station,Bhadran,73,22
+1357114752,5601,railway_station,Bochasan Junction,73,22
+1357114764,5601,railway_station,Petlad Junction,73,22
+1362181594,5601,railway_station,Rajula City,71,21
+1364954531,5601,railway_station,Siddhpur,72,24
+1364954538,5601,railway_station,Vadnagar,73,24
+1364954539,5601,railway_station,Visnagar,73,24
+1364955373,5601,railway_station,Taranga Hill,73,24
+1425115150,5601,railway_station,Morbi,71,23
+1425115151,5601,railway_station,Wankaner Junction,71,23
+1425143765,5601,railway_station,Dahinsara Junction,71,23
+1429944700,5601,railway_station,Dabhoi Junction,73,22
+1472057679,5601,railway_station,Shapur Junction,70,21
+1472058820,5601,railway_station,Balwa,70,22
+1517258904,5601,railway_station,Koth Gangad,72,23
+1517908650,5601,railway_station,Bavla,72,23
+1517913241,5601,railway_station,Gojhariya,73,23
+1517914745,5601,railway_station,Vijapur,73,24
+1518077945,5601,railway_station,Idar,73,24
+1519143107,5601,railway_station,Bhilad,73,20
+1523485478,5601,railway_station,Kosad,73,21
+1534367853,5601,railway_station,Una,71,21
+1538850296,5601,railway_station,Malsar,73,22
+1545721824,5601,railway_station,Sarkhej,72,23
+1545874441,5601,railway_station,Jalila Road,72,22
+1562249969,5601,railway_station,Bhavnagar Para,72,22
+1562249971,5601,railway_station,Khodiyar Mandir,72,22
+1562249974,5601,railway_station,Vartej,72,22
+1562865195,5601,railway_station,Maliya Miyana Junction,71,23
+1568014474,5601,railway_station,Savarkundla,71,21
+1573035428,5601,railway_station,Bhalej,73,23
+1573035434,5601,railway_station,Dakor,73,23
+1573035438,5601,railway_station,Umreth,73,23
+1583755621,5601,railway_station,Halvad,71,23
+1597636364,5601,railway_station,Aambliyasan Junction,72,23
+1597636540,5601,railway_station,Langhnaj,72,23
+1598977159,5601,railway_station,Vankal,73,21
+1600192524,5601,railway_station,Mota Miya Mangrol,73,21
+1600192526,5601,railway_station,Zankhvav,73,21
+1621473135,5601,railway_station,Amreli,71,22
+1705164307,5601,railway_station,Wadhwan City,72,23
+1705399908,5601,railway_station,Ankleshwar Junction,73,22
+1805442322,5601,railway_station,Pipavav,71,21
+1858261139,5601,railway_station,Surendranagar Gate,72,23
+1981361947,5601,railway_station,Songadh,72,22
+2068421648,5601,railway_station,Chanasma,72,24
+2068421650,5601,railway_station,Kadi,72,23
+2068421652,5601,railway_station,Katosan Road Junction,72,23
+2068421653,5601,railway_station,Patan,72,24
+2068421655,5601,railway_station,Ranuj Junction,72,24
+2068422100,5601,railway_station,Bhoyani,72,23
+2068422196,5601,railway_station,Bechraji,72,24
+2068422249,5601,railway_station,Dhinoj,72,24
+2068705792,5601,railway_station,Kuda,71,23
+2068719207,5601,railway_station,Khed Brahma,73,24
+2068743533,5601,railway_station,Kharaghoda,72,23
+2068743668,5601,railway_station,Jhund Junction,72,23
+2083204314,5601,railway_station,Maliya Hatina,70,21
+2083204388,5601,railway_station,Bhanduri,70,21
+2083205759,5601,railway_station,Jetpur,71,22
+2083780306,5601,railway_station,Kharsaliya,74,23
+2140498471,5601,railway_station,Mahemadavad Kheda Road,73,23
+2340450463,5601,railway_station,Sasan Gir,71,21
+2340450464,5601,railway_station,Talala Junction,71,21
+2350878015,5601,railway_station,Dhanera,72,25
+2350878016,5601,railway_station,Jari,72,25
+2351133768,5601,railway_station,Jasali,72,24
+2351133769,5601,railway_station,Jenal,72,24
+2351133945,5601,railway_station,Ramsan,72,24
+2351891812,5601,railway_station,Chandisar,72,24
+2351891832,5601,railway_station,Karjoda,72,24
+2351906368,5601,railway_station,Chitrasani,72,24
+2351906369,5601,railway_station,Disa,72,24
+2351906370,5601,railway_station,Iqbal Gadh,73,24
+2351906371,5601,railway_station,Lorwada,72,24
+2351906496,5601,railway_station,Sarotra Road,73,24
+2351906500,5601,railway_station,Shri Amirgadh,73,24
+2351982758,5601,railway_station,Bhandu Motidau,72,24
+2351982762,5601,railway_station,Chhapi,72,24
+2351982765,5601,railway_station,Dharewada,72,24
+2351982768,5601,railway_station,Kamli,72,24
+2351982772,5601,railway_station,Manund,72,24
+2351982951,5601,railway_station,Umardashi,72,24
+2351982952,5601,railway_station,Unjha,72,24
+2357542720,5601,railway_station,Wansjaliya Junction,70,22
+2360682940,5601,railway_station,Nenpur,73,23
+2376612715,5601,railway_station,Ambli Road,72,23
+2496657476,5601,railway_station,Bhesana Mankanaj,72,23
+2516708243,5601,railway_station,Gandhinagar Capital,73,23
+2588844159,5601,railway_station,Jagudan,72,24
+2668715940,5601,railway_station,Dholka,72,23
+2669084968,5601,railway_station,Ahmedabad Junction,73,23
+2669085037,5601,railway_station,Vadodara Junction,73,22
+2681839863,5601,railway_station,Umbergaon Road,73,20
+2682274360,5601,railway_station,Sanjan,73,20
+2867177822,5601,railway_station,Rajpipla,74,22
+3125252510,5601,railway_station,Palanpur Junction,72,24
+3277041892,5601,railway_station,Vadtal Swaminarayan,73,23
+3278092403,5601,railway_station,Dahej,73,22
+3278092405,5601,railway_station,Samni Junction,73,22
+3278092575,5601,railway_station,Pakhajan,73,22
+3283404929,5601,railway_station,Palej,73,22
+3455747180,5601,railway_station,Adraj Moti,73,23
+3455747183,5601,railway_station,Kolvada,73,23
+3611300339,5601,railway_station,Jamnagar,70,22
+3768994851,5601,railway_station,Porbandar,70,22
+4151942165,5601,railway_station,Bhimnath,72,22
+4302169526,5601,railway_station,Mahesana Junction,72,24
+4310594752,5601,railway_station,Khambhaliya,70,22
+4312193889,5601,railway_station,Khodiyar Junction,73,23
+4398457021,5601,railway_station,Vatva,73,23
+4486398588,5601,railway_station,Sabarmati Junction,73,23
+4510418865,5601,railway_station,Nadiad Junction,73,23
+4515049690,5601,railway_station,Barejadi Nandej,73,23
+4515083789,5601,railway_station,Kanij,73,23
+4515093191,5601,railway_station,Gothaj,73,23
+4525895498,5601,railway_station,Geratpur,73,23
+4730516847,5601,railway_station,Udhna Junction,73,21
+4762275125,5601,railway_station,Jetalsar Junction,71,22
+4864368821,5601,railway_station,Vyara,73,21
+4943268193,5601,railway_station,Makakhad,73,23
+5078667809,5601,railway_station,Kikakui Road,73,21
+5127674096,5601,railway_station,Modasa,73,23
+5165585878,5601,railway_station,Tankhala,74,22
+5165585882,5601,railway_station,Bhatpur,74,22
+5289727994,5601,railway_station,Bajana,72,23
+5289727995,5601,railway_station,Jatpipli,72,23
+5289727996,5601,railway_station,Vasadva,72,23
+5289728072,5601,railway_station,Sadla,72,23
+5289762701,5601,railway_station,Chuli,71,23
+5341283853,5601,railway_station,Utran,73,21
+5351369951,5601,railway_station,Bhestan,73,21
+5361980950,5601,railway_station,Vadiya Devli,71,22
+5381189023,5601,railway_station,Veraval Junction,70,21
+5396166538,5601,railway_station,Paneli Moti,70,22
+5454078802,5601,railway_station,Champaner Road,73,23
+5455870998,5601,railway_station,Godhra Junction,74,23
+5455871250,5601,railway_station,Anas,74,23
+5455871251,5601,railway_station,Bordi,74,23
+5566618411,5601,railway_station,Karambeli,73,20
+5566618729,5601,railway_station,Pardi,73,21
+5566618818,5601,railway_station,Atul,73,21
+5568407715,5601,railway_station,Dungri,73,21
+5568408493,5601,railway_station,Bilimora Junction,73,21
+5568408548,5601,railway_station,Amalsad,73,21
+5568408601,5601,railway_station,Vedchha,73,21
+5568408830,5601,railway_station,Maroli,73,21
+5568408848,5601,railway_station,Sachin,73,21
+5571100123,5601,railway_station,Gothangam,73,21
+5571100124,5601,railway_station,Sayan,73,21
+5571414263,5601,railway_station,Kim,73,21
+5571414299,5601,railway_station,Hathuran,73,22
+5571414304,5601,railway_station,Panoli,73,22
+5577895690,5601,railway_station,Chavaj,73,22
+5577895691,5601,railway_station,Nabipur,73,22
+5590107074,5601,railway_station,Varediya,73,22
+5590108853,5601,railway_station,Lakodra,73,22
+5590108854,5601,railway_station,Miyagam Karjan Junction,73,22
+5590108855,5601,railway_station,Kashipura Sarar,73,22
+5590108856,5601,railway_station,Itola,73,22
+5590108917,5601,railway_station,Varnama,73,22
+5725638703,5601,railway_station,Chandlodiya,73,23
+5725639222,5601,railway_station,Gora Ghuma,72,23
+5725639271,5601,railway_station,Sanand,72,23
+5725639283,5601,railway_station,Chharodi,72,23
+5725639293,5601,railway_station,Jakhvada,72,23
+5725639432,5601,railway_station,Vani Road,72,23
+5734380272,5601,railway_station,Bhaktinagar,71,22
+5737147648,5601,railway_station,Ukai Songhad,74,21
+5743719625,5601,railway_station,Bala road,72,23
+5743719673,5601,railway_station,Bajrangpura,72,23
+5743719681,5601,railway_station,Lakhtar,72,23
+5743719713,5601,railway_station,Kesariya Road,72,23
+5743719735,5601,railway_station,Lilapur Road,72,23
+5745061855,5601,railway_station,Sabli Road,72,23
+5745061911,5601,railway_station,Bileshwar,71,22
+5745061984,5601,railway_station,Kanakot,71,22
+5745062031,5601,railway_station,Sindhawadar,71,23
+5745062093,5601,railway_station,Amarsar,71,23
+5745062135,5601,railway_station,Lunseriya,71,23
+5745062164,5601,railway_station,Daladi,71,23
+5745062194,5601,railway_station,Lakhamanchi,71,23
+5745062205,5601,railway_station,Than,71,23
+5745062218,5601,railway_station,Vagdiya,71,23
+5745104693,5601,railway_station,Ramparda,71,23
+5745104708,5601,railway_station,Muli road,71,23
+5745105546,5601,railway_station,Digsar,72,23
+5745105558,5601,railway_station,Chamaraj,72,23
+5745453249,5601,railway_station,Ribada,71,22
+5746301821,5601,railway_station,Kosamba Junction,73,21
+5773700367,5601,railway_station,Khanderi,71,22
+5773700444,5601,railway_station,Chanol,71,22
+5774539097,5601,railway_station,Hadmatiya,70,22
+5774539114,5601,railway_station,Jalia Devani,70,22
+5775380872,5601,railway_station,Jam Wanthali,70,22
+5775380886,5601,railway_station,Alia Bada,70,22
+5776953589,5601,railway_station,Lakhabawal,70,22
+5776953624,5601,railway_station,Pipli,70,22
+5778759345,5601,railway_station,Modpur,70,22
+5778923390,5601,railway_station,Bhatel,69,22
+5778923681,5601,railway_station,Bhopalka,69,22
+5778923728,5601,railway_station,Kuranga,69,22
+5778923742,5601,railway_station,Okha Madhi,69,22
+5778923857,5601,railway_station,Gorinja,69,22
+5778923971,5601,railway_station,Bhimrana,69,22
+6084723184,5601,railway_station,Derol,73,23
+6177088516,5601,railway_station,Navapur,74,21
+6177088518,5601,railway_station,Bhadbhunja,74,21
+6177088519,5601,railway_station,Lakkadkot,74,21
+6177088574,5601,railway_station,Lotarva,73,21
+6177088575,5601,railway_station,Kaher,73,21
+6177088577,5601,railway_station,Timbarva,73,21
+6177088578,5601,railway_station,Gangadhara,73,21
+6177088580,5601,railway_station,Chalthan,73,21
+6177088581,5601,railway_station,Niyol,73,21
+6177979537,5601,railway_station,Vavadi Khurd,74,23
+6177979538,5601,railway_station,Tuwa,73,23
+6177979539,5601,railway_station,Tulsigam,73,23
+6177979731,5601,railway_station,Angadi,73,23
+6177979733,5601,railway_station,Thasra,73,23
+6177979734,5601,railway_station,Od,73,23
+6177985914,5601,railway_station,Bakrol,73,23
+6178116517,5601,railway_station,Jarod,73,22
+6178341290,5601,railway_station,Dhamarda,74,23
+6178341291,5601,railway_station,Rentiya,74,23
+6178341292,5601,railway_station,Jekot,74,23
+6178341311,5601,railway_station,Usra,74,23
+6178341317,5601,railway_station,Mangal Mahudi,74,23
+6178341337,5601,railway_station,Limkheda,74,23
+6178341350,5601,railway_station,Sant Road,74,23
+6178341355,5601,railway_station,Chanchelav,74,23
+6178341356,5601,railway_station,Kansudhi,74,23
+6418267632,5601,railway_station,Jethi,73,24
+6418900977,5601,railway_station,Unawa Aithor,72,24
+6419186508,5601,railway_station,Shobhasan,72,24
+6419205302,5601,railway_station,Dangarwa,72,23
+6419222280,5601,railway_station,Jhulasan,72,23
+6419254399,5601,railway_station,Saij Sertha Road,73,23
+6564485688,5601,railway_station,Sunak,73,24
+6564544989,5601,railway_station,Viravada,73,24
+6564551780,5601,railway_station,Himmatnagar Junction,73,24
+6565151938,5601,railway_station,Kadiyadra,73,24
+6565182415,5601,railway_station,Sur Road,73,24
+6566321356,5601,railway_station,Chadotar,72,24
+6566357993,5601,railway_station,Rasana,72,24
+6570717717,5601,railway_station,Piludra,72,24
+6570763256,5601,railway_station,Kesimpa,73,24
+6570786735,5601,railway_station,Kadarpur,73,24
+6571007449,5601,railway_station,IR,72,24
+6571021211,5601,railway_station,Khemana,72,24
+6571025620,5601,railway_station,Wayad,72,24
+6571044259,5601,railway_station,Kansa,72,24
+6571065343,5601,railway_station,Shihori,72,24
+6571836455,5601,railway_station,Detroj,72,23
+6571842202,5601,railway_station,Linch,72,24
+6571842548,5601,railway_station,Jotana,72,23
+6571849133,5601,railway_station,Ghelda,72,23
+6571849177,5601,railway_station,Jaksi,72,23
+6571860282,5601,railway_station,Bhankoda,72,23
+6571867204,5601,railway_station,Kanjh,72,23
+6571896867,5601,railway_station,Tintoda,73,23
+6571916829,5601,railway_station,Randheja,73,23
+6571922113,5601,railway_station,Unava Vasan,73,23
+6571962483,5601,railway_station,Limbodra,73,23
+6572823262,5601,railway_station,Gerita Kolvada,73,24
+6572840759,5601,railway_station,Lodra,73,23
+6572844694,5601,railway_station,Pilwai Road,73,24
+6572862392,5601,railway_station,Gawada Malosan,73,24
+6572874580,5601,railway_station,Kukarvada,73,24
+6572879993,5601,railway_station,Vasai Dabhla,73,24
+6573046344,5601,railway_station,Chhatral,72,23
+6573086144,5601,railway_station,Anakhol,72,23
+6573094633,5601,railway_station,Karan Nagar,72,23
+6573105752,5601,railway_station,Devsana,72,23
+6573118825,5601,railway_station,Rantej,72,23
+6573125944,5601,railway_station,Sankhalpur,72,24
+6573134133,5601,railway_station,Brahmanvada,72,24
+6573162885,5601,railway_station,Khambel,72,24
+6573179291,5601,railway_station,Jitoda,72,24
+6665668680,5601,railway_station,Valsad,73,21
+6666205414,5601,railway_station,Hansapore,73,21
+6671438757,5601,railway_station,Sanjali,73,22
+6672476723,5601,railway_station,Miyagam Karjan Junction (NG),73,22
+6685002436,5601,railway_station,Unai and Vansda Road,73,21
+6689898446,5601,railway_station,Limbara,73,21
+6689918574,5601,railway_station,Velachha,73,21
+6689919741,5601,railway_station,Asarma,73,21
+6689925613,5601,railway_station,Simodara,73,21
+6689929511,5601,railway_station,Kevedi,73,21
+6689940611,5601,railway_station,Chitalda,73,21
+6689946193,5601,railway_station,Umarpada,73,21
+6690374606,5601,railway_station,Tham,73,22
+6694044337,5601,railway_station,Kayavarohan,73,22
+6694105371,5601,railway_station,Baripur Mandala,73,22
+6696408647,5601,railway_station,Chhuchhapura Junction,74,22
+6696467313,5601,railway_station,Padaliya Road,74,22
+6696490566,5601,railway_station,Ten Talav,73,22
+6696490686,5601,railway_station,Moti Sadhli,74,22
+6697171370,5601,railway_station,Prayagpura,73,22
+6697589009,5601,railway_station,Karmaliyapura,73,22
+6697616246,5601,railway_station,Vyankatpura,73,22
+6697621343,5601,railway_station,Ajwa,73,22
+6697684832,5601,railway_station,Karchiya,73,23
+6697696250,5601,railway_station,Mevli,73,23
+6697704681,5601,railway_station,Pandu Mewas,73,23
+6697709912,5601,railway_station,Muval Tank,73,23
+6697717939,5601,railway_station,Wasanapura,73,23
+6697736383,5601,railway_station,Sandasal,73,23
+6697744687,5601,railway_station,Desar Road,73,23
+6697776497,5601,railway_station,Wejpur,73,23
+6697892427,5601,railway_station,Khunvad,74,22
+6724288800,5601,railway_station,Ranoli,73,22
+6724658086,5601,railway_station,Utarsanda,73,23
+6727553050,5601,railway_station,Vasan Iyava,72,23
+6727610645,5601,railway_station,Sokali,72,23
+6728806680,5601,railway_station,Khareshwar Road,72,23
+6728824424,5601,railway_station,Bhaskarapara,72,23
+6732644713,5601,railway_station,Khorana,71,22
+6738000570,5601,railway_station,Viramdad,70,22
+6738428335,5601,railway_station,Chandlodiya 'B',73,23
+6738782992,5601,railway_station,Haripur,72,23
+6738842035,5601,railway_station,Ghanshyamgadh Road,71,23
+6738880088,5601,railway_station,Sukhpur,71,23
+6738949538,5601,railway_station,Dhanala,71,23
+6738977703,5601,railway_station,Devaliya,71,23
+6738978951,5601,railway_station,Khakhrechi,71,23
+6739003628,5601,railway_station,Wadharva,71,23
+6739494937,5601,railway_station,Patdi,72,23
+6739879670,5601,railway_station,Moti Khawdi,70,22
+6739882352,5601,railway_station,Bedeshwar Windmill,70,23
+6746120126,5601,railway_station,Gop Jam,70,22
+6746899790,5601,railway_station,Ranavav,70,22
+6746963285,5601,railway_station,Aditpara,70,22
+6747112569,5601,railway_station,Kathana,73,22
+6748855446,5601,railway_station,Pandori,73,22
+6748879098,5601,railway_station,Kalitalavadi,73,22
+6757647512,5601,railway_station,Dabhou,73,23
+6757736378,5601,railway_station,Vina,73,23
+6758793148,5601,railway_station,Sanathal,72,23
+6759274176,5601,railway_station,Moraiya,72,23
+6759428796,5601,railway_station,Matoda,72,23
+6759458893,5601,railway_station,Saljida,72,23
+6759461164,5601,railway_station,Lothal Bhurkhi,72,23
+6759500322,5601,railway_station,Hadala Bhal,72,22
+6759527039,5601,railway_station,Dhandhuka,72,22
+6759527369,5601,railway_station,Tagdi,72,22
+6759583894,5601,railway_station,Chandarwa,72,22
+6759601850,5601,railway_station,Alau,72,22
+6759603888,5601,railway_station,Sarangpur Road,72,22
+6762201983,5601,railway_station,Ranpur,72,22
+6762202232,5601,railway_station,Ningala,72,22
+6762206271,5601,railway_station,Ujalvav,72,22
+6762215842,5601,railway_station,Alampur,72,22
+6762221882,5601,railway_station,Kundali,72,22
+6762223626,5601,railway_station,Chuda,72,22
+6762226369,5601,railway_station,Lathidad,72,22
+6762251925,5601,railway_station,Sanosara,72,22
+6763969567,5601,railway_station,Khakhriya,71,22
+6763985713,5601,railway_station,Lathi,71,22
+6763995811,5601,railway_station,Ingorala,72,22
+6764025143,5601,railway_station,Jaliya,72,22
+6764129178,5601,railway_station,Supedi,70,22
+6764785291,5601,railway_station,Bhayavadar,70,22
+6764937200,5601,railway_station,Katkola,70,22
+6765096187,5601,railway_station,Liliya Mota,71,22
+6765102843,5601,railway_station,Damnagar,72,22
+6765403960,5601,railway_station,Vijpadi Road,71,21
+6765418756,5601,railway_station,Gadhakda,71,21
+6765495693,5601,railway_station,Charodia,71,21
+6765702717,5601,railway_station,Sajiyavadar,71,21
+6765703413,5601,railway_station,Bhader,71,21
+6765731677,5601,railway_station,Savni,70,21
+6765754087,5601,railway_station,Satadhar,71,21
+6765758309,5601,railway_station,Kansiya Nes,71,21
+6765764157,5601,railway_station,Chitravad,71,21
+6765949818,5601,railway_station,Prachi Road Junction,71,21
+6766565633,5601,railway_station,Palitana,72,22
+6767211942,5601,railway_station,Trapaj Bungalow,72,21
+6769386846,5601,railway_station,Talaja,72,21
+6770089004,5601,railway_station,Makansar,71,23
+6770108123,5601,railway_station,Nazarbag,71,23
+6770759704,5601,railway_station,Barwala Road,71,23
+6770769599,5601,railway_station,Navlakhi,70,23
+6770771693,5601,railway_station,Lavanpur,71,23
+6773356159,5601,railway_station,Virpur,71,22
+6773404970,5601,railway_station,Semla,71,22
+6773452784,5601,railway_station,Vadal,70,22
+6775510378,5601,railway_station,Adari Road,70,21
+6777728488,5601,railway_station,Bilkha,71,21
+7105216112,5601,railway_station,Devgam,72,24
+7105218422,5601,railway_station,Garmadi,71,24
+7105218535,5601,railway_station,Vaghpura,71,24
+7105218540,5601,railway_station,Varahi,71,24
+7105218545,5601,railway_station,Piplee,72,24
+7105218676,5601,railway_station,Mitha,72,24
+7105218699,5601,railway_station,Santalpur,71,24
+7105221836,5601,railway_station,Dhanakwada,72,24
+7105222090,5601,railway_station,Lakhpat,71,24
+7105222091,5601,railway_station,Mothala,69,23
+7105222092,5601,railway_station,Bhachau,70,23
+7105222093,5601,railway_station,Anjar,70,23
+7105222094,5601,railway_station,Sanosara,69,23
+7105222100,5601,railway_station,Samakhyali Junction,71,23
+7105222101,5601,railway_station,Kukma,70,23
+7105222102,5601,railway_station,Madhapar Road,70,23
+7105222103,5601,railway_station,Naliya Cantt,69,23
+7105222105,5601,railway_station,Sapda,70,23
+7105222106,5601,railway_station,Bhadreshwar Road,70,23
+7105222110,5601,railway_station,Mundra Airport Road,70,23
+7105222127,5601,railway_station,Surbari,71,23
+7105222129,5601,railway_station,Navinal,70,23
+7105222149,5601,railway_station,Bhutakiya Bhimasar,71,24
+7105222152,5601,railway_station,Padampur,71,24
+7105222154,5601,railway_station,Adesar,71,24
+7105222156,5601,railway_station,Dhanvala Vada,69,23
+7105222157,5601,railway_station,Sukhpur Roha,69,23
+7105222160,5601,railway_station,Bhuj,70,23
+7105222164,5601,railway_station,Ratnal,70,23
+7105222166,5601,railway_station,Shivalakha,71,23
+7105222167,5601,railway_station,Devalia Road,70,23
+7105222168,5601,railway_station,Chirai,70,23
+7105222169,5601,railway_station,Lakadiya,71,23
+7105222170,5601,railway_station,Chitrod,71,23
+7105222171,5601,railway_station,Naliya,69,23
+7105222174,5601,railway_station,Deshalpar,69,23
+7105222175,5601,railway_station,Vasai Third Road,70,23
+7105222177,5601,railway_station,Kothara,69,23
+7105222178,5601,railway_station,Kidiyanagar,71,23
+7105222179,5601,railway_station,Bhimasar,70,23
+7105222180,5601,railway_station,Sukhpur,70,23
+7105222181,5601,railway_station,Katariya,71,23
+7105222184,5601,railway_station,Gandhidham Junction,70,23
+7105222185,5601,railway_station,Vondh,70,23
+7105222186,5601,railway_station,Adipur Junction,70,23
+7112558998,5601,railway_station,Diyodar,72,24
+7112559007,5601,railway_station,Bhabhar,72,24
+7112559008,5601,railway_station,Chalvada,72,24
+7112559009,5601,railway_station,Radhanpur,72,24
+7112559011,5601,railway_station,Chhansara,71,24
+7112559012,5601,railway_station,Piprala,71,24
+7116591942,5601,railway_station,Bharuch Station,73,22
+7394362717,5601,railway_station,Vavaniya,71,23
+7556326461,5601,railway_station,Chandkheda Road,73,23
+7579486012,5601,railway_station,Ancheli,73,21
+7944287415,5601,railway_station,Kalupur Railway Station,73,23
+7944287418,5601,railway_station,Kankaria East,73,23
+7944287421,5601,railway_station,Shahpur Station,73,23
+7944287424,5601,railway_station,Gheekanta,73,23
+9056979598,5601,railway_station,Kevadiya,74,22
+9061989361,5601,railway_station,Moriya,74,22
+9062009152,5601,railway_station,Chandod,73,22
+11150049345,5601,railway_station,St fatak,71,22
+11392864510,5601,railway_station,Makarpura,73,22
+12101715857,5601,railway_station,Junction Area (Rajkot),71,22
+12196641344,5601,railway_station,Juna Koba,73,23
+12196641345,5601,railway_station,Koba Circle,73,23
+12196641346,5601,railway_station,Narmada Canal,73,23
+12196641347,5601,railway_station,Tapovan Circle,73,23
+12196641348,5601,railway_station,Vishwakarma College,73,23
+12196641349,5601,railway_station,Koteshwar Road,73,23
+12196641350,5601,railway_station,Raysan,73,23
+12196641351,5601,railway_station,Randesan,73,23
+12196641352,5601,railway_station,Dholakuva Circle,73,23
+12196641353,5601,railway_station,Infocity,73,23
+12196641354,5601,railway_station,Sector-1,73,23
+12196641355,5601,railway_station,GNLU,73,23
+12196641356,5601,railway_station,PDPU,73,23
+12196641357,5601,railway_station,GIFT City,73,23
+12196641362,5601,railway_station,AEC,73,23
+12196641364,5601,railway_station,Sabarmati,73,23
+12196641366,5601,railway_station,Motera Stadium,73,23
+12406995811,5601,railway_station,Thaltej,73,23
+12408894281,5601,railway_station,Thaltej Gam,73,23
